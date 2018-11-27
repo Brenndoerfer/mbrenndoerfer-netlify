@@ -43,6 +43,3 @@ paginate = 10
 	backtotopStr = "Back to top"
 	shareStr = "Share"
 	pageNotFoundTitle = "404 - Page not found"
-baseurl = "/"
-languageCode = "en-us"
-title = "Homepage"
